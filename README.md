@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=3500&color=03ffb3&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;NODE+%7C+NEST+%7C+NEXT+%7C+.NET;BUILDING+SCALABLE+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=3500&color=03ffb3&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;NODE+%7C+NEST+%7C+NEXT+%7C+.NET;BUILDING+SCALABLE+SYSTEMS" />
 </p>
 
 <!-- Name -->
