@@ -1,10 +1,9 @@
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&color=47ff75&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node+%7C+Nest+%7C+Next+%7C+.NET;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=3500&color=00f279&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;NODE+%7C+NEST+%7C+NEXT+%7C+.NET;BUILDING+SCALABLE+SYSTEMS" />
 </p>
 
 <!-- Name -->
-<h1 align="center">Jafir Islam Siam 👋</h1>
+<h1 align="center">Jafir Islam Siam </h1>
 
 <!-- Subtitle -->
 <p align="center">
@@ -15,16 +14,27 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f279&height=2&section=header"/>
 </p>
 
 ### About Me
 
 ```diff
-+  Building scalable backend systems & clean frontends
-+  Deep into Node.js ecosystem & modern frameworks
-+  Experienced with .NET backend architecture
-+  Focused on performance, scalability & system design
+public class Developer
+{
+    public void About()
+    {
+        var focus = new List<string>
+        {
+            "Scalable backend systems & clean frontends",
+            "Node.js ecosystem & modern frameworks",
+            ".NET backend architecture",
+            "Performance, scalability & system design"
+        };
+
+        focus.ForEach(Console.WriteLine);
+    }
+}
 ```
 
 ### 🛠 Tech Stack
