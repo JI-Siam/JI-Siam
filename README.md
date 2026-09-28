@@ -52,29 +52,22 @@
 I'm a **Full-Stack Developer** and **Computer Science student** based in Bangladesh, currently gaining hands-on industry experience as a **Software Engineer Intern**. I enjoy building robust, scalable web applications and turning complex problems into clean, efficient software.
 
 
-### 🛠️ Tech Stack & Tools
+ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,nextjs,dotnet,postgres,mysql,git,docker" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,nextjs,dotnet,postgres,mysql,git,docker,jest,vitest,playwright,postman" /> </p>
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS
-* **Backend:** Node.js, NestJS, .NET
-* **Databases & Tools:** PostgreSQL, MySQL, Git, Docker
+ Frontend: HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React.js · Next.js · Tailwind CSS
 
----
+ Backend: Node.js · NestJS · ASP.NET Core · REST APIs · JWT · Swagger/OpenAPI
 
-### 💼 Current Focus & Stats
+ Databases: PostgreSQL · MySQL · SQL Server · Supabase · Firebase
 
-* 🚀 **Intership:** Gaining real-world software engineering experience.
-* 🌱 **Learning:** Advanced system design, microservices architecture, and cloud deployment.
-* ⚡ **Fun Fact:** Always exploring new backend patterns and optimization techniques.
+ Testing & QA: Jest · Vitest · Playwright · Cypress · Postman · API Testing · Integration Testing · Functional Testing · System Testing ·    Regression Testing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JI-Siam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jafir's GitHub Stats" />
-</p>
+ Tools & DevOps: Git · GitHub · Docker · VS Code · CI/CD
 
 ---
+
 
 ### 📬 Connect With Me
 
