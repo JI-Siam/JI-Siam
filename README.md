@@ -52,19 +52,24 @@
 I'm a **Full-Stack Developer** and **Computer Science student** based in Bangladesh, currently gaining hands-on industry experience as a **Software Engineer Intern**. I enjoy building robust, scalable web applications and turning complex problems into clean, efficient software.
 
 
- Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,nextjs,dotnet,postgres,mysql,git,docker,jest,vitest,playwright,postman" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,nextjs,dotnet,postgres,mysql,git,docker,selenium,postman" />
+</p>
 
- Frontend: HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React.js · Next.js · Tailwind CSS
+**🎨 Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React.js · Next.js · Tailwind CSS
 
- Backend: Node.js · NestJS · ASP.NET Core · REST APIs · JWT · Swagger/OpenAPI
+**⚙️ Backend:** Node.js · NestJS · ASP.NET Core · REST APIs · JWT · Swagger/OpenAPI
 
- Databases: PostgreSQL · MySQL · SQL Server · Supabase · Firebase
+**🗄️ Databases:** PostgreSQL · MySQL · SQL Server · Supabase · Firebase
 
- Testing & QA: Jest · Vitest · Playwright · Cypress · Postman · API Testing · Integration Testing · Functional Testing · System Testing ·    Regression Testing
+**🧪 Testing & QA:** Selenium · Postman · API Testing · Functional Testing · Integration Testing · System Testing · Regression Testing · SQA
 
- Tools & DevOps: Git · GitHub · Docker · VS Code · CI/CD
+**📋 Project & Collaboration:** Jira · Trello · GitHub · Git · Agile/Scrum
+
+**🔧 DevOps & Tools:** Docker · GitHub Actions · VS Code
+
 
 ---
 
@@ -129,19 +134,7 @@ Full-Stack Developer focused on building scalable, maintainable, user-focused we
 `NestJS` `Next.js` `PostgreSQL` — Led 4-member team, 14+ REST APIs, JWT + RBAC.
 
 
-**💧 Aqua-Advisor** — Water-quality analysis · ICCIT 2025.
 
-**🥭 LeafNet-BD** — Mango leaf variety classification · ICECTE 2026.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** TypeScript · JavaScript · C# · Java · Python  
-**Frontend:** React · Next.js · Tailwind CSS · HTML5 · CSS3  
-**Backend:** Node.js · NestJS · ASP.NET Core · REST APIs · JWT  
-**Databases:** PostgreSQL · MySQL · SQL Server · Supabase · Firebase  
-**Tools:** Git · GitHub · Docker
 
 ---
 
@@ -150,6 +143,10 @@ Full-Stack Developer focused on building scalable, maintainable, user-focused we
 Software Quality Assurance · Generative AI for SE · Requirement Analysis · Explainable AI · Computer Vision · Deep Learning
 
 Part of **InSiamtion Research Group (IRG)**.
+
+**💧 Aqua-Advisor** — Water-quality analysis · ICCIT 2025.
+
+**🥭 LeafNet-BD** — Mango leaf variety classification · ICECTE 2026.
 
 ---
 
