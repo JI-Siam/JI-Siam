@@ -1,22 +1,56 @@
-<!-- Header Banner / Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&color=03FFB3&center=true&vCenter=true&width=750&lines=💻+Full-Stack+Software+Engineer;🚀+Node+%7C+Nest+%7C+Next+%7C+.NET;⚙️+Building+Scalable+Web+Systems" />
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                              HEADER                                     -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:003B32,100:00F5A0&text=Jafir%20Islam%20Siam&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=45&lines=Full-Stack+Software+Engineer;Node.js+%7C+NestJS+%7C+Next.js+%7C+ASP.NET+Core;Building+Scalable+%26+Maintainable+Web+Systems;Turning+Complex+Problems+Into+Clean+Software" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/🇧🇩%20Bangladesh-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
+  <img src="https://img.shields.io/badge/💼%20Software%20Engineer%20Intern-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
+  <img src="https://img.shields.io/badge/🎓%20CSE%20Student-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
 </p>
 
-<!-- Quick Bio Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Looking_for_New_Opportunities-03ffb3?style=flat-square&logo=appveyor&logoColor=black" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-CS_Student_%26_Intern-orange?style=flat-square&logo=student&logoColor=white" />
+<p>
+  <a href="https://github.com/JI-Siam">
+    <img src="https://img.shields.io/badge/GitHub-JI--Siam-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jafirislam10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
+  </a>
 </p>
+
+<br/>
+
+> **Engineering scalable systems • Building real-world products • Learning continuously**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=JI-Siam&label=PROFILE+VIEWS&color=00F5A0&style=for-the-badge" />
+
+</div>
 
 ---
 
-### Hi there 👋, I'm Jafir Islam Siam
+### 👋 Hi, I'm Jafir Islam Siam
 
-I'm a **Full-Stack Developer** and **Computer Science Student** based in Bangladesh, currently gaining hands-on industry experience as a **Software Engineer Intern**. I love building robust, scalable web applications and turning complex problems into clean, efficient code.
+I'm a **Full-Stack Developer** and **Computer Science student** based in Bangladesh, currently gaining hands-on industry experience as a **Software Engineer Intern**. I enjoy building robust, scalable web applications and turning complex problems into clean, efficient software.
 
----
 
 ### 🛠️ Tech Stack & Tools
 
