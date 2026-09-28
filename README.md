@@ -1,20 +1,62 @@
+<!-- Header Banner / Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=3500&color=03ffb3&center=true&vCenter=true&width=700&lines=💻+FULL+STACK+DEVELOPER;🚀+NODE+%7C+NEST+%7C+NEXT+%7C+.NET;⚙️+BUILDING+SCALABLE+WEB+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&color=03FFB3&center=true&vCenter=true&width=750&lines=💻+Full-Stack+Software+Engineer;🚀+Node+%7C+Nest+%7C+Next+%7C+.NET;⚙️+Building+Scalable+Web+Systems" />
 </p>
+
+<!-- Quick Bio Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Looking_for_New_Opportunities-03ffb3?style=flat-square&logo=appveyor&logoColor=black" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-CS_Student_%26_Intern-orange?style=flat-square&logo=student&logoColor=white" />
+</p>
+
+---
+
+### Hi there 👋, I'm Jafir Islam Siam
+
+I'm a **Full-Stack Developer** and **Computer Science Student** based in Bangladesh, currently gaining hands-on industry experience as a **Software Engineer Intern**. I love building robust, scalable web applications and turning complex problems into clean, efficient code.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,nextjs,dotnet,postgres,mysql,git,docker" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jafir Islam Siam</h1>
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS
+* **Backend:** Node.js, NestJS, .NET
+* **Databases & Tools:** PostgreSQL, MySQL, Git, Docker
 
-<h3 align="center">Full-Stack Developer · Software Engineer Intern · CS Student · Bangladesh</h3>
+---
+
+### 💼 Current Focus & Stats
+
+* 🚀 **Intership:** Gaining real-world software engineering experience.
+* 🌱 **Learning:** Advanced system design, microservices architecture, and cloud deployment.
+* ⚡ **Fun Fact:** Always exploring new backend patterns and optimization techniques.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/JI-Siam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-03ffb3?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JI-Siam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jafir's GitHub Stats" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JI-Siam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-03ffb3?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -59,7 +101,6 @@ Full-Stack Developer focused on building scalable, maintainable, user-focused we
 **🎓 Campus Events** · [💻 GitHub](https://github.com/JI-Siam/CampusEvents/tree/main/src)  
 `NestJS` `Next.js` `PostgreSQL` — Led 4-member team, 14+ REST APIs, JWT + RBAC.
 
-**🔬 DraXNet** — Explainable image classification (EfficientNet-B0 + CBAM + Grad-CAM).
 
 **💧 Aqua-Advisor** — Water-quality analysis · ICCIT 2025.
 
@@ -104,7 +145,7 @@ Part of **InSiamtion Research Group (IRG)**.
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
   <a href="https://github.com/JI-Siam">GitHub</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:jafirislam10@gmail.com">Email</a>
 </p>
 
 <p align="center"><i>Building scalable systems, solving real-world problems, continuously learning. ⚡</i></p>
