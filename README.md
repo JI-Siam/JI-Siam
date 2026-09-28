@@ -8,194 +8,107 @@
 
 <h1 align="center">Hi 👋, I'm Jafir Islam Siam</h1>
 
-<h3 align="center">
-  Full-Stack Developer · Computer Science Student · Bangladesh
-</h3>
+<h3 align="center">Full-Stack Developer · Software Engineer Intern · CS Student · Bangladesh</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-03ffb3?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/JI-Siam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-03ffb3?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 </p>
 
 ---
 
 ## 💻 About Me
 
-I'm a **Full-Stack Developer** focused on building scalable, maintainable, and user-focused web applications.
+Full-Stack Developer focused on building scalable, maintainable, user-focused web applications across the **Node.js and .NET** ecosystems.
 
-My primary development experience is across the **Node.js and .NET ecosystems**, with a strong interest in backend architecture, API development, modern frontend frameworks, and system design.
+- 🎓 B.Sc. in CSE — American International University-Bangladesh
+- 💼 Software Engineer Intern @ Zaytoon Business Solutions
+- ⚙️ Node.js · NestJS · Next.js · React · ASP.NET Core
+- 🗄️ PostgreSQL · MySQL · SQL Server
+- 🔬 Active in software & ML research
 
-* 🎓 **B.Sc. in Computer Science & Engineering** — American International University-Bangladesh
-* 💻 Focused on **Full-Stack Web Development**
-* ⚙️ Experienced with **Node.js, NestJS, Next.js, React & ASP.NET Core**
-* 🗄️ Comfortable working with **PostgreSQL, MySQL & SQL Server**
-* 🚀 Interested in **scalable backend systems, clean architecture & performance**
-* 🔬 Also actively involved in **software research and research-driven projects**
+---
+
+## 💼 Experience
+
+**Software Engineer Intern (Full-Stack)** — Zaytoon Business Solutions, Dhaka
+*Jul 2026 – Present*
+
+- Built two production-oriented web platforms across development, integration, testing, and deployment.
+- **Zaytoon Official Website** ([🌐](https://zaytoon.com.bd)) — frontend development, backend integration, responsive design.
+- **Agent Onboarding & Interviewing Platform** — full-stack development + SQA, functional & system-level testing.
+
+---
+
+## 📌 Featured Projects
+
+**🛍️ Cosmetix Glow BD** · [🌐 Live](https://cosmetix-glow-bd.vercel.app/)  
+`Next.js` `Tailwind` `Firebase` — Korean cosmetics e-commerce platform with admin dashboard.
+
+**🏥 MediQueuePro** · [💻 GitHub](https://github.com/JI-Siam/MediQueuePro)  
+`ASP.NET Core` `C#` `EF Core` — Clinic queue system with RBAC, scheduling, emergency prioritization.
+
+**🇰🇷 KoreanGuideBD** · [🌐 Live](https://alvix-education.vercel.app/) · [💻 GitHub](https://github.com/JI-Siam/KoreanGuideBD)  
+`Next.js` `React` `Node.js` — Visa planning, document checklists, progress tracking.
+
+**🧠 NeuroLearn** · [🌐 Live](https://neuro-learn-2.vercel.app/) · [💻 GitHub](https://github.com/JI-Siam/NeuroLearn)  
+`Next.js` `MongoDB` `Better Auth` — AI/research learning platform.
+
+**🎓 Campus Events** · [💻 GitHub](https://github.com/JI-Siam/CampusEvents/tree/main/src)  
+`NestJS` `Next.js` `PostgreSQL` — Led 4-member team, 14+ REST APIs, JWT + RBAC.
+
+**🔬 DraXNet** — Explainable image classification (EfficientNet-B0 + CBAM + Grad-CAM).
+
+**💧 Aqua-Advisor** — Water-quality analysis · ICCIT 2025.
+
+**🥭 LeafNet-BD** — Mango leaf variety classification · ICECTE 2026.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+**Languages:** TypeScript · JavaScript · C# · Java · Python  
+**Frontend:** React · Next.js · Tailwind CSS · HTML5 · CSS3  
+**Backend:** Node.js · NestJS · ASP.NET Core · REST APIs · JWT  
+**Databases:** PostgreSQL · MySQL · SQL Server · Supabase · Firebase  
+**Tools:** Git · GitHub · Docker
 
 ---
 
-## 🚀 What I Focus On
+## 🔬 Research Interests
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ⚙️  Backend Engineering                                     │
-│      REST APIs · Authentication · Clean Architecture         │
-│                                                              │
-│  💻  Full-Stack Development                                  │
-│      Next.js · React · NestJS · ASP.NET Core                  │
-│                                                              │
-│  🗄️  Data & Systems                                          │
-│      PostgreSQL · MySQL · SQL Server · System Design         │
-│                                                              │
-│  🚀  Engineering Practices                                   │
-│      Scalability · Performance · Maintainability · Security   │
-└──────────────────────────────────────────────────────────────┘
-```
+Software Quality Assurance · Generative AI for SE · Requirement Analysis · Explainable AI · Computer Vision · Deep Learning
+
+Part of **InSiamtion Research Group (IRG)**.
 
 ---
 
-## 📌 Selected Projects
-
-### 🔹 Full-Stack Web Applications
-
-**Agent / Business Management Platform**
-A full-stack platform designed for managing users, applications, agents, scoring, approvals, dashboards, and business operations.
-
-**Stack:** Next.js · React · NestJS · PostgreSQL · JWT · PusherJS
-
----
-
-### 🔹 Research & Machine Learning Projects
-
-**DraXNet — Explainable Image Classification**
-An image classification research project combining **EfficientNet-B0 and CBAM** with Grad-CAM-based explainability.
-
-**Stack:** Python · PyTorch · EfficientNet · CBAM · Grad-CAM
-
----
-
-### 🔹 Aqua-Advisor
-
-A research project focused on water-quality analysis and intelligent recommendations.
-
-**Conference:** ICCIT 2025
-
-**Stack:** Machine Learning · Python · Data Analysis
-
----
-
-### 🔹 LeafNet-BD
-
-A deep learning project for **Bangladeshi mango leaf variety classification**, developed as a research project.
-
-**Dataset:** MangoLeafVarietyBD · 2,744 images
-
-**Conference:** ICECTE 2026
-
----
-
-## 🔬 Research & Academic Work
-
-Alongside software development, I work on **software engineering and machine learning research**.
-
-My interests include:
-
-* Software Quality Assurance
-* Generative AI for Software Engineering
-* Requirement Analysis & Ambiguity Detection
-* Explainable AI
-* Computer Vision
-* Deep Learning
-* Efficient & Lightweight Models
-
-I'm also involved in **InSiamtion Research Group (IRG)**, a student-led research initiative focused on helping students explore research, collaborate, and develop research skills.
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JI-Siam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JI-Siam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JI-Siam&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
+  <a href="https://github.com/JI-Siam">GitHub</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
----
+<p align="center"><i>Building scalable systems, solving real-world problems, continuously learning. ⚡</i></p>
 
 <p align="center">
-  <i>Building scalable systems, solving real-world problems, and continuously learning. ⚡</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=03ffb3&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=JI-Siam&label=Profile%20views&color=03ffb3&style=flat" />
 </p>
