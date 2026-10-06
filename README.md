@@ -1,152 +1,128 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                              HEADER                                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:003B32,100:00F5A0&text=Jafir%20Islam%20Siam&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:003B32,100:00F5A0&text=Jafir%20Islam%20Siam&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20ML%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=45&lines=Full-Stack+Software+Engineer;Node.js+%7C+NestJS+%7C+Next.js+%7C+ASP.NET+Core;Building+Scalable+%26+Maintainable+Web+Systems;Turning+Complex+Problems+Into+Clean+Software" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=45&lines=Full-Stack+Software+Engineer;NestJS+%7C+Next.js+%7C+ASP.NET+Core+%7C+PostgreSQL;IEEE-Published+AI+%26+ML+Researcher;Building+Scalable+%26+Maintainable+Software" />
 
 <p>
-  <img src="https://img.shields.io/badge/🇧🇩%20Bangladesh-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
-  <img src="https://img.shields.io/badge/💼%20Software%20Engineer%20Intern-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
-  <img src="https://img.shields.io/badge/🎓%20CSE%20Student-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
+  <img src="https://img.shields.io/badge/📍%20Dhaka,%20Bangladesh-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
+  <img src="https://img.shields.io/badge/💼%20Software%20Developer%20Intern-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
+  <img src="https://img.shields.io/badge/🔬%20Junior%20Research%20Assistant-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
 </p>
 
 <p>
-  <a href="https://github.com/JI-Siam">
-    <img src="https://img.shields.io/badge/GitHub-JI--Siam-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jafirislam10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
-  </a>
+  <a href="mailto:jafirislam10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
 </p>
-
-<br/>
-
-> **Engineering scalable systems • Building real-world products • Learning continuously**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JI-Siam&label=PROFILE+VIEWS&color=00F5A0&style=for-the-badge" />
 
 </div>
 
 ---
 
-### 👋 Hi, I'm Jafir Islam Siam
+## 👋 About Me
 
-I'm a **Full-Stack Developer** and **Computer Science student** based in Bangladesh, currently gaining hands-on industry experience as a **Software Engineer Intern**. I enjoy building robust, scalable web applications and turning complex problems into clean, efficient software.
+I'm a **Full-Stack Software Engineer** and **CSE undergraduate at American International University-Bangladesh (AIUB)**. I build production-grade web systems across the **Node.js** and **.NET** ecosystems, and I do applied **AI/ML research** with multiple peer-reviewed, IEEE- and Springer-indexed publications.
 
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,nextjs,dotnet,postgres,mysql,git,docker,selenium,postman" />
-</p>
-
-**🎨 Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React.js · Next.js · Tailwind CSS
-
-**⚙️ Backend:** Node.js · NestJS · ASP.NET Core · REST APIs · JWT · Swagger/OpenAPI
-
-**🗄️ Databases:** PostgreSQL · MySQL · SQL Server · Supabase · Firebase
-
-**🧪 Testing & QA:** Selenium · Postman · API Testing · Functional Testing · Integration Testing · System Testing · Regression Testing · SQA
-
-**📋 Project & Collaboration:** Jira · Trello · GitHub · Git · Agile/Scrum
-
-**🔧 DevOps & Tools:** Docker · GitHub Actions · VS Code
-
+- 💼 Software Developer Intern (Full-Stack) at **Zaytoon Business Solutions**
+- 🔬 Junior Research Assistant at **AIRIL** and AIUB-funded researcher
+- 🏅 5× Dean's Honor List, Academic Scholarship recipient
+- 🧩 300+ problems solved on Codeforces, LeetCode, and Beecrowd
 
 ---
 
-
-### 📬 Connect With Me
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/JI-Siam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-03ffb3?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,react,nextjs,nodejs,nestjs,express,dotnet,postgres,mysql,mongodb,supabase,firebase,tailwind,git,github,vscode,postman,selenium" />
 </p>
 
----
-
-## 💻 About Me
-
-Full-Stack Developer focused on building scalable, maintainable, user-focused web applications across the **Node.js and .NET** ecosystems.
-
-- 🎓 B.Sc. in CSE — American International University-Bangladesh
-- 💼 Software Engineer Intern @ Zaytoon Business Solutions
-- ⚙️ Node.js · NestJS · Next.js · React · ASP.NET Core
-- 🗄️ PostgreSQL · MySQL · SQL Server
-- 🔬 Active in software & ML research
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · C++ · C# · SQL |
+| **Web & Backend** | React · Next.js · Node.js · NestJS · Express.js · ASP.NET Core · REST APIs · JWT · RBAC |
+| **Databases** | PostgreSQL · MySQL · SQL Server · Supabase · MongoDB · Firebase |
+| **AI & ML** | Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · RAG · Scikit-learn · Pandas · NumPy |
+| **Testing & QA** | SDLC · STLC · Test Case Design · Manual & Regression Testing · Selenium · API Testing · Postman |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern (Full-Stack)** — Zaytoon Business Solutions, Dhaka
-*Jul 2026 – Present*
+### Software Developer Intern (Full-Stack) · Zaytoon Business Solutions
+*Dhaka, Bangladesh · Jul 2026 – Present*
 
-- Built two production-oriented web platforms across development, integration, testing, and deployment.
-- **Zaytoon Official Website** ([🌐](https://zaytoon.com.bd)) — frontend development, backend integration, responsive design.
-- **Agent Onboarding & Interviewing Platform** — full-stack development + SQA, functional & system-level testing.
+Contributing to two production-oriented platforms across development, integration, testing, and deployment.
+
+- **[Zaytoon Official Website](https://zaytoon.com.bd)**: frontend development, backend integration, responsive design, requirements analysis
+- **Onkur Official Website**: frontend development, backend integration, responsive design, requirements analysis
+- **Agent Onboarding & Interviewing Platform**: full-stack development and SQA, including functional and system-level testing
+
+### Junior Research Assistant · AIRIL
+*Artificial Intelligence Research & Innovation Lab, Dhaka · Sept 2026 – Present*
+
+- Research in AI and ML alongside researchers and research associates on multiple ongoing projects
+- Experimentation, data analysis, and manuscript preparation for peer-reviewed conferences and journals
+
+### Researcher, AIUB-Funded Research · AIUB
+*2025 – Present*
+
+- Independent and collaborative research under AIUB-funded projects with faculty
+- Authored and co-authored multiple peer-reviewed conference papers; several journal manuscripts under review
+
+### Operations Manager · Youth School for Social Entrepreneurs (YSSE)
+*Nov 2024 – Mar 2025*
+
+- Managed IT operations for **500+ employees** and prepared structured evaluation reports
+- Awarded **Best IT Manager** and **Best Monitoring Team**
 
 ---
 
 ## 📌 Featured Projects
 
-**🛍️ Cosmetix Glow BD** · [🌐 Live](https://cosmetix-glow-bd.vercel.app/)  
-`Next.js` `Tailwind` `Firebase` — Korean cosmetics e-commerce platform with admin dashboard.
-
-**🏥 MediQueuePro** · [💻 GitHub](https://github.com/JI-Siam/MediQueuePro)  
-`ASP.NET Core` `C#` `EF Core` — Clinic queue system with RBAC, scheduling, emergency prioritization.
-
-**🇰🇷 KoreanGuideBD** · [🌐 Live](https://alvix-education.vercel.app/) · [💻 GitHub](https://github.com/JI-Siam/KoreanGuideBD)  
-`Next.js` `React` `Node.js` — Visa planning, document checklists, progress tracking.
-
-**🧠 NeuroLearn** · [🌐 Live](https://neuro-learn-2.vercel.app/) · [💻 GitHub](https://github.com/JI-Siam/NeuroLearn)  
-`Next.js` `MongoDB` `Better Auth` — AI/research learning platform.
-
-**🎓 Campus Events** · [💻 GitHub](https://github.com/JI-Siam/CampusEvents/tree/main/src)  
-`NestJS` `Next.js` `PostgreSQL` — Led 4-member team, 14+ REST APIs, JWT + RBAC.
-
-
-
+| Project | Stack | Highlights |
+|---|---|---|
+| **Abroad Scammer BD** | Next.js · NestJS · TypeScript · Supabase | Platform for sharing overseas education agency experiences. Authentication, RBAC, moderation, anonymous posting, content reporting. Modular monolith with rate limiting and audit logging. |
+| **[Campus Events](https://github.com/JI-Siam/CampusEvents/tree/main/src)** | NestJS · Next.js · PostgreSQL | Led a 4-member team. 14+ REST APIs, JWT auth, RBAC, centralized error handling. |
+| **[MediQueuePro](https://github.com/JI-Siam/MediQueuePro)** | ASP.NET Core · C# · EF Core | Clinic appointment and queue system with scheduling, token generation, and emergency prioritization. Repository and Service patterns. |
+| **[Cosmetix Glow BD](https://cosmetix-glow-bd.vercel.app/)** | Next.js · Tailwind CSS · Firebase | Korean cosmetics e-commerce platform with product search, customer auth, and a full admin dashboard. |
+| **[KoreanGuideBD](https://github.com/JI-Siam/KoreanGuideBD)** · [Live](https://alvix-education.vercel.app/) | Next.js · React · Node.js | Visa planning, document checklists, progress tracking, searchable content. |
+| **[NeuroLearn](https://github.com/JI-Siam/NeuroLearn)** · [Live](https://neuro-learn-2.vercel.app/) | Next.js · React · MongoDB · Better Auth | AI/research learning platform with authentication and course functionality. |
+| **RAG Knowledge Assistant** | Python · LLM · RAG | Chatbot that answers queries from a custom knowledge base. |
+| **Natural Language to SQL** | Python · NLP | Prototype converting natural-language queries into executable SQL via prompt engineering. |
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research & Publications
 
-Software Quality Assurance · Generative AI for SE · Requirement Analysis · Explainable AI · Computer Vision · Deep Learning
+**Interests:** Applied Machine Learning · Deep Learning · Computer Vision · Explainable AI · Software Quality Assurance · Generative AI for SE
 
-Part of **InSiamtion Research Group (IRG)**.
+| Year | Paper | Venue | Role |
+|---|---|---|---|
+| 2026 | [LeafNet-BD: Preventing Mango Sapling Fraud Using Deep Learning and Leaf Image Classification](https://doi.org/10.1109/ICECTE69292.2026.11429346) | ICECTE 2026 · IEEE Xplore | First Author |
+| 2026 | [Regional Clustering and Anomaly Detection of Groundwater Recharge Time Series Across the Continental US](https://doi.org/10.1109/QPAIN69676.2026.11546049) | IEEE QPAIN 2026 | First Author |
+| 2026 | [Predicting User Trust in Customer-Service Chatbots: A Supervised Learning Study](https://doi.org/10.2991/978-94-6239-664-7_13) | IDAA · Springer Nature (Atlantis Press) | Co-Author |
+| 2025 | [Aqua-Advisor: Real-Time Fish Recommendation Using Predicted Dissolved Oxygen via IoT and ML](https://doi.org/10.1109/ICCIT68739.2025.11490201) | ICCIT 2025 · IEEE Xplore | First Author |
+| 2025 | An Advanced Multi-Input LSTM Framework with Attention for Predicting the Risk Level of Cardiovascular Disease | IDAA 2025 · Springer Nature (Atlantis Press) | Co-Author |
+| 2026 | Comparative Study of Gallstone Disease Detection Using ML Techniques | ICCA 2026, Dhaka · *Accepted for presentation* | First Author |
 
-**💧 Aqua-Advisor** — Water-quality analysis · ICCIT 2025.
+Two further papers are accepted at an international conference in Dubai, UAE, pending publication.
 
-**🥭 LeafNet-BD** — Mango leaf variety classification · ICECTE 2026.
+---
+
+## 🎓 Certifications
+
+- **Applied AI Project Bootcamp** (21+ projects across RAG, NLP, CV, Deep Learning, AI Agents), GeeksforGeeks, 2025
+- **Gold Certified Intern & Letter of Recommendation**, YSSE, 2025
+- **AI Agents Fundamentals** and **Fundamentals of MCP**, Hugging Face, 2024
+- **Technology in Leadership**, Lead Academy, 2024
+
+## 🏆 Achievements
+
+- Dean's Honor List ×5 (Fall, Spring, Summer 2023–24; Fall, Spring 2024–25) and Academic Scholarship recipient
+- Top 10, CS Fest Junior Programming Contest 2024, AIUB
+- Participant, ICPC Asia Dhaka Regional Preliminary 2024
 
 ---
 
@@ -163,17 +139,17 @@ Part of **InSiamtion Research Group (IRG)**.
 
 ---
 
-## 🌐 Connect
+<div align="center">
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="https://github.com/JI-Siam">GitHub</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:jafirislam10@gmail.com">Email</a>
-</p>
+### 📬 Let's Connect
 
-<p align="center"><i>Building scalable systems, solving real-world problems, continuously learning. ⚡</i></p>
+<a href="mailto:jafirislam10@gmail.com">Email</a> •
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+<a href="https://github.com/JI-Siam">GitHub</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JI-Siam&label=Profile%20views&color=03ffb3&style=flat" />
-</p>
+<i>Building scalable systems, publishing applied research, and learning continuously.</i>
+
+<img src="https://komarev.com/ghpvc/?username=JI-Siam&label=Profile%20views&color=00F5A0&style=flat" />
+
+</div>
