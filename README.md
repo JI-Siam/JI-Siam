@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Jafir Islam Siam - Full-Stack Engineer and AI/ML Researcher" width="100%" />
+<img src="./header.svg" alt="Jafir Islam Siam - Full-Stack Engineer and AI/ML Researcher" width="100%" />
 
 <br/>
 
