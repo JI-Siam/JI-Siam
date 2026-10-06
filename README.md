@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:003B32,100:00F5A0&text=Jafir%20Islam%20Siam&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20ML%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:0B3D2E,100:00F5A0&section=header&text=Jafir%20Islam%20Siam&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%26%20ML%20Researcher&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=45&lines=Full-Stack+Software+Engineer;NestJS+%7C+Next.js+%7C+ASP.NET+Core+%7C+PostgreSQL;IEEE-Published+AI+%26+ML+Researcher;Building+Scalable+%26+Maintainable+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&height=40&lines=Building+scalable+web+systems+with+NestJS+%26+Next.js;Shipping+production+software+with+ASP.NET+Core;Publishing+applied+AI+research+on+IEEE+Xplore" alt="Typing intro" />
 
-<p>
-  <img src="https://img.shields.io/badge/📍%20Dhaka,%20Bangladesh-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
-  <img src="https://img.shields.io/badge/💼%20Software%20Developer%20Intern-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
-  <img src="https://img.shields.io/badge/🔬%20Junior%20Research%20Assistant-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5A0" />
-</p>
+<br/>
 
-<p>
-  <a href="mailto:jafirislam10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
-</p>
+<sub>📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🎓 CSE @ AIUB &nbsp;·&nbsp; 💼 Zaytoon Business Solutions &nbsp;·&nbsp; 🔬 AIRIL</sub>
+
+<br/><br/>
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-0D1117?style=flat-square&labelColor=0D1117&color=00F5A0" /></a>
+<a href="#-experience"><img src="https://img.shields.io/badge/Experience-0D1117?style=flat-square&labelColor=0D1117&color=00F5A0" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-0D1117?style=flat-square&labelColor=0D1117&color=00F5A0" /></a>
+<a href="#-research--publications"><img src="https://img.shields.io/badge/Research-0D1117?style=flat-square&labelColor=0D1117&color=00F5A0" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-0D1117?style=flat-square&labelColor=0D1117&color=00F5A0" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Publications-5-00F5A0?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Accepted-3-00F5A0?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Problems%20Solved-300%2B-00F5A0?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Dean's%20Honor%20List-%C3%975-00F5A0?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<a href="mailto:jafirislam10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+<a href="https://github.com/JI-Siam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
