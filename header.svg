@@ -61,9 +61,7 @@
 
   <g class="sans">
     <g class="card c1"><rect class="cardbg" x="60" y="262" width="250" height="56" rx="12"/>
-      <text class="num" x="80" y="298">5</text><text class="lbl" x="110" y="296">Peer-reviewed publications</text></g>
-    <g class="card c2"><rect class="cardbg" x="330" y="262" width="250" height="56" rx="12"/>
-      <text class="num" x="350" y="298">3</text><text class="lbl" x="380" y="296">Papers accepted</text></g>
+      <text class="num" x="80" y="298">6</text><text class="lbl" x="110" y="296">Peer-reviewed publications</text></g>
     <g class="card c3"><rect class="cardbg" x="600" y="262" width="250" height="56" rx="12"/>
       <text class="num" x="620" y="298">300+</text><text class="lbl" x="684" y="296">Problems solved</text></g>
     <g class="card c4"><rect class="cardbg" x="870" y="262" width="250" height="56" rx="12"/>
