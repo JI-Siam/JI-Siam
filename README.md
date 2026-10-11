@@ -13,8 +13,7 @@
 <br/><br/>
 
 <a href="mailto:jafirislam10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ji-siam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/JI-Siam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
@@ -82,14 +81,33 @@ Contributing to two production-oriented platforms across development, integratio
 
 ## 📌 Featured Projects
 
+### 🟢 Next.js · NestJS · TypeScript
+
 | Project | Stack | Highlights |
 |---|---|---|
 | **Abroad Scammer BD** | Next.js · NestJS · TypeScript · Supabase | Platform for sharing overseas education agency experiences. Authentication, RBAC, moderation, anonymous posting, content reporting. Modular monolith with rate limiting and audit logging. |
 | **[Campus Events](https://github.com/JI-Siam/CampusEvents/tree/main/src)** | NestJS · Next.js · PostgreSQL | Led a 4-member team. 14+ REST APIs, JWT auth, RBAC, centralized error handling. |
-| **[MediQueuePro](https://github.com/JI-Siam/MediQueuePro)** | ASP.NET Core · C# · EF Core | Clinic appointment and queue system with scheduling, token generation, and emergency prioritization. Repository and Service patterns. |
+
+### ⚛️ Next.js · React · Node.js (Full-Stack Products)
+
+| Project | Stack | Highlights |
+|---|---|---|
 | **[Cosmetix Glow BD](https://cosmetix-glow-bd.vercel.app/)** | Next.js · Tailwind CSS · Firebase | Korean cosmetics e-commerce platform with product search, customer auth, and a full admin dashboard. |
 | **[KoreanGuideBD](https://github.com/JI-Siam/KoreanGuideBD)** · [Live](https://alvix-education.vercel.app/) | Next.js · React · Node.js | Visa planning, document checklists, progress tracking, searchable content. |
 | **[NeuroLearn](https://github.com/JI-Siam/NeuroLearn)** · [Live](https://neuro-learn-2.vercel.app/) | Next.js · React · MongoDB · Better Auth | AI/research learning platform with authentication and course functionality. |
+
+### 🟣 ASP.NET Core · C# (.NET)
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[JasimPlazaTenantPortal](https://github.com/JI-Siam/Advanced-Dotnet/tree/main/JasimPlazaTenantPortal)** | ASP.NET Core · C# · Tailwind CSS | Commercial plaza management with RBAC (Admin and Tenants), automated monthly billing, and bKash payment gateway integration. |
+| **[MediQueuePro](https://github.com/JI-Siam/MediQueuePro)** | ASP.NET Core · C# · EF Core | Clinic appointment and queue system with scheduling, token generation, and emergency prioritization. Repository and Service patterns. |
+| **[EmployeeManagementApp](https://github.com/JI-Siam/Advanced-Dotnet/tree/main/EmployeeManagementApp)** | ASP.NET Core · C# · LINQ · Bootstrap 5 | Employee lifecycle management (CRUD) with automated performance tier classification. |
+
+### 🤖 Python · LLM · NLP
+
+| Project | Stack | Highlights |
+|---|---|---|
 | **RAG Knowledge Assistant** | Python · LLM · RAG | Chatbot that answers queries from a custom knowledge base. |
 | **Natural Language to SQL** | Python · NLP | Prototype converting natural-language queries into executable SQL via prompt engineering. |
 
@@ -145,8 +163,7 @@ Two further papers are accepted at an international conference in Dubai, UAE, pe
 ### 📬 Let's Connect
 
 <a href="mailto:jafirislam10@gmail.com">Email</a> •
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ji-siam/">LinkedIn</a> •
 <a href="https://github.com/JI-Siam">GitHub</a>
 
 <i>Building scalable systems, publishing applied research, and learning continuously.</i>
