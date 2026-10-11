@@ -81,14 +81,15 @@ Contributing to two production-oriented platforms across development, integratio
 
 ## 📌 Featured Projects
 
-### 🟢 Next.js · NestJS · TypeScript
+### <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,supabase" height="30" align="absmiddle" alt="" /> &nbsp;Next.js · NestJS · TypeScript
 
 | Project | Stack | Highlights |
 |---|---|---|
+| **Korean Visa Consultancy Management System** | Next.js · NestJS · TypeScript · PostgreSQL · Supabase · TypeORM | Administrative portal for managing applicants, university applications, document tracking, universities, programs, majors, areas, and intakes. RBAC and applicant authentication, dashboard analytics, application status tracking, and deadline monitoring. Modular monolith with Supabase-managed PostgreSQL and TypeORM. |
 | **Abroad Scammer BD** | Next.js · NestJS · TypeScript · Supabase | Platform for sharing overseas education agency experiences. Authentication, RBAC, moderation, anonymous posting, content reporting. Modular monolith with rate limiting and audit logging. |
 | **[Campus Events](https://github.com/JI-Siam/CampusEvents/tree/main/src)** | NestJS · Next.js · PostgreSQL | Led a 4-member team. 14+ REST APIs, JWT auth, RBAC, centralized error handling. |
 
-### ⚛️ Next.js · React · Node.js (Full-Stack Products)
+### <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,firebase,mongodb,tailwind" height="30" align="absmiddle" alt="" /> &nbsp;Next.js · React · Node.js
 
 | Project | Stack | Highlights |
 |---|---|---|
@@ -96,7 +97,7 @@ Contributing to two production-oriented platforms across development, integratio
 | **[KoreanGuideBD](https://github.com/JI-Siam/KoreanGuideBD)** · [Live](https://alvix-education.vercel.app/) | Next.js · React · Node.js | Visa planning, document checklists, progress tracking, searchable content. |
 | **[NeuroLearn](https://github.com/JI-Siam/NeuroLearn)** · [Live](https://neuro-learn-2.vercel.app/) | Next.js · React · MongoDB · Better Auth | AI/research learning platform with authentication and course functionality. |
 
-### 🟣 ASP.NET Core · C# (.NET)
+### <img src="https://skillicons.dev/icons?i=dotnet,cs,tailwind,bootstrap" height="30" align="absmiddle" alt="" /> &nbsp;ASP.NET Core · C# (.NET)
 
 | Project | Stack | Highlights |
 |---|---|---|
@@ -104,7 +105,7 @@ Contributing to two production-oriented platforms across development, integratio
 | **[MediQueuePro](https://github.com/JI-Siam/MediQueuePro)** | ASP.NET Core · C# · EF Core | Clinic appointment and queue system with scheduling, token generation, and emergency prioritization. Repository and Service patterns. |
 | **[EmployeeManagementApp](https://github.com/JI-Siam/Advanced-Dotnet/tree/main/EmployeeManagementApp)** | ASP.NET Core · C# · LINQ · Bootstrap 5 | Employee lifecycle management (CRUD) with automated performance tier classification. |
 
-### 🤖 Python · LLM · NLP
+### <img src="https://skillicons.dev/icons?i=py" height="30" align="absmiddle" alt="" /> &nbsp;Python · LLM · NLP
 
 | Project | Stack | Highlights |
 |---|---|---|
